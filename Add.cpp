@@ -8,7 +8,7 @@ int main() {
     cin>>c;
     if(n>=1 && n<=12)
     {
-        if(c==1)
+        if(c==2)
     {
        	while(i<=n)
        	{
