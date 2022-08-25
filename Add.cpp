@@ -18,16 +18,5 @@ int main() {
         cout<<sum;
     	
     }
-    else if(c==2)
-    {
-        while(i<=n)
-       	{
-           	product*=i;
-            i++;
-       	}
-        cout<<product;
-    }
-    else
-        cout<<"-1";
-    }
+    
 }
